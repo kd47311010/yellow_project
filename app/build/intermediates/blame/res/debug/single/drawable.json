@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\choidaek\\AndroidStudioProjects\\SeoulTour\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame.xml",
+        "source": "C:\\Users\\choidaek\\AndroidStudioProjects\\SeoulTour\\app\\src\\main\\res\\drawable\\frame.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame.xml",
+        "source": "C:\\Users\\rntdl\\Desktop\\project\\app\\src\\main\\res\\drawable\\frame.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellowproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame.xml",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellowproject\\app\\src\\main\\res\\drawable\\frame.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellowproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_marker_star.png",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellowproject\\app\\src\\main\\res\\drawable\\custom_marker_star.png"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\yellow theme project\\yellowproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map_pin_red.png",
+        "source": "C:\\Users\\hyunik\\Desktop\\yellow theme project\\yellowproject\\app\\src\\main\\res\\drawable\\map_pin_red.png"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellowproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map_pin_red.png",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellowproject\\app\\src\\main\\res\\drawable\\map_pin_red.png"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellowproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_callout_balloon.9.png",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellowproject\\app\\src\\main\\res\\drawable\\custom_callout_balloon.9.png"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\yellow theme project\\yellowproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_marker_red.png",
+        "source": "C:\\Users\\hyunik\\Desktop\\yellow theme project\\yellowproject\\app\\src\\main\\res\\drawable\\custom_marker_red.png"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\yellow theme project\\yellowproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame.xml",
+        "source": "C:\\Users\\hyunik\\Desktop\\yellow theme project\\yellowproject\\app\\src\\main\\res\\drawable\\frame.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\yellow theme project\\yellowproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_marker_star.png",
+        "source": "C:\\Users\\hyunik\\Desktop\\yellow theme project\\yellowproject\\app\\src\\main\\res\\drawable\\custom_marker_star.png"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\yellow theme project\\yellowproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_callout_balloon.9.png",
+        "source": "C:\\Users\\hyunik\\Desktop\\yellow theme project\\yellowproject\\app\\src\\main\\res\\drawable\\custom_callout_balloon.9.png"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellowproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map_pin_blue.png",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellowproject\\app\\src\\main\\res\\drawable\\map_pin_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellowproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_marker_red.png",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellowproject\\app\\src\\main\\res\\drawable\\custom_marker_red.png"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\yellow theme project\\yellowproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map_pin_blue.png",
+        "source": "C:\\Users\\hyunik\\Desktop\\yellow theme project\\yellowproject\\app\\src\\main\\res\\drawable\\map_pin_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame.xml",
+        "source": "C:\\Users\\hyunik\\Desktop\\project\\app\\src\\main\\res\\drawable\\frame.xml"
+    }
+]

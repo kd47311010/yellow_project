@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="seoultour.project.team"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+
+    <uses-feature android:name="android.hardware.camera" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+
+    <uses-sdk tools:overrideLibrary="android.support.v17.leanback"/>
+
+
+
+    <application
+        android:icon="@drawable/wherego"
+        android:label="@string/app_name" >
+        <meta-data android:name="com.kakao.sdk.AppKey" android:value="2d59790d9415de7bac504f1ac6949b73"/>
+        <activity
+            android:name=".SeoulTourActivity"
+            android:label="@string/app_name" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainMenuActivity" android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".CameraActivity"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity android:name=".SeoulMapActivity" android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".InfoActivity" android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".SearchDemoActivity" android:screenOrientation="portrait">
+        </activity>
+
+        <uses-library android:name="com.google.android.maps" />
+
+        <activity android:name="LocationSettingRequest" android:screenOrientation="portrait"></activity>
+        <activity android:name=".MarkerIconInfo" android:screenOrientation="portrait"></activity>
+    </application>
+
+</manifest>

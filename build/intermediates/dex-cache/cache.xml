@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\rntdl\Desktop\yellowproject\app\libs\libDaumMapAndroid.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f096afe1be0bd0114ca942469b3be761fb26a578">
+        <dex dex="C:\Users\rntdl\Desktop\yellowproject\app\build\intermediates\pre-dexed\debug\libDaumMapAndroid_a072c5b0d2c438cb55f66cd1df4badea1b9b324f.jar" />
+    </item>
+
+</items>
