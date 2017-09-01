@@ -3,7 +3,7 @@
     android:id="@+id/startActivity"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:background="@drawable/sangmyung"
+    android:background="@drawable/adigo"
     android:orientation="vertical" >
 
 

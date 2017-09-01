@@ -1,4 +1,4 @@
-#Sat Aug 26 17:01:01 KST 2017
-base.0=C\:\\Users\\rntdl\\Desktop\\yellowproject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Fri Sep 01 18:35:39 KST 2017
+base.0=C\:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.0=C\:\\Users\\rntdl\\Desktop\\yellowproject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.0=C\:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

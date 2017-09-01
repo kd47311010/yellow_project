@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="seoultour.project.team"
+    package="graduation.sangmyung.project"
     android:versionCode="1"
     android:versionName="1.0" >
 
     <uses-sdk
         android:minSdkVersion="14"
-        android:targetSdkVersion="21" />
+        android:targetSdkVersion="25" />
 
     <uses-feature android:name="android.hardware.camera" />
 
@@ -17,17 +17,18 @@
 
     <meta-data
         android:name="android.support.VERSION"
-        android:value="26.0.0-alpha1" />
+        android:value="25.3.1" />
 
     <application
+        android:allowBackup="true"
         android:icon="@drawable/wherego"
         android:label="@string/app_name" >
         <meta-data
-            android:name="com.kakao.sdk.AppKey"
-            android:value="2d59790d9415de7bac504f1ac6949b73" />
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyDL5NP1UqBZbxiGJnzXoK-y1B1-6jXBEZ0" />
 
         <activity
-            android:name="seoultour.project.team.SeoulTourActivity"
+            android:name="graduation.sangmyung.project.MainLoading"
             android:label="@string/app_name"
             android:screenOrientation="portrait" >
             <intent-filter>
@@ -37,38 +38,25 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="seoultour.project.team.MainMenuActivity"
+            android:name="graduation.sangmyung.project.MainActivity"
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name="seoultour.project.team.CameraActivity"
+            android:name="graduation.sangmyung.project.CameraActivity"
             android:screenOrientation="landscape" >
         </activity>
         <activity
-            android:name="seoultour.project.team.SeoulMapActivity"
-            android:screenOrientation="portrait" >
-        </activity>
+            android:name="graduation.sangmyung.project.LocationSettingRequest"
+            android:screenOrientation="portrait" />
         <activity
-            android:name="seoultour.project.team.InfoActivity"
-            android:screenOrientation="portrait" >
-        </activity>
-        <activity
-            android:name="seoultour.project.team.SearchDemoActivity"
-            android:screenOrientation="portrait" >
-        </activity>
+            android:name="graduation.sangmyung.project.MarkerIconInfo"
+            android:screenOrientation="portrait" />
 
         <uses-library android:name="com.google.android.maps" />
 
-        <activity
-            android:name="seoultour.project.team.LocationSettingRequest"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name="seoultour.project.team.MarkerIconInfo"
-            android:screenOrientation="portrait" />
-
         <provider
             android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
-            android:authorities="seoultour.project.team.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="graduation.sangmyung.project.com.android.tools.fd.runtime.InstantRunContentProvider"
             android:multiprocess="true" />
     </application>
 

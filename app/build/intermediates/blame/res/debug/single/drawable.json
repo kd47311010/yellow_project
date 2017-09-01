@@ -1,62 +1,738 @@
 [
     {
-        "merged": "C:\\Users\\choidaek\\AndroidStudioProjects\\SeoulTour\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame.xml",
-        "source": "C:\\Users\\choidaek\\AndroidStudioProjects\\SeoulTour\\app\\src\\main\\res\\drawable\\frame.xml"
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "C:\\Users\\rntdl\\Desktop\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame.xml",
-        "source": "C:\\Users\\rntdl\\Desktop\\project\\app\\src\\main\\res\\drawable\\frame.xml"
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_mini_controller_pause.xml"
     },
     {
-        "merged": "C:\\Users\\rntdl\\Desktop\\yellowproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame.xml",
-        "source": "C:\\Users\\rntdl\\Desktop\\yellowproject\\app\\src\\main\\res\\drawable\\frame.xml"
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ronabar.jpg",
+        "source": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\src\\main\\res\\drawable\\ronabar.jpg"
     },
     {
-        "merged": "C:\\Users\\rntdl\\Desktop\\yellowproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_marker_star.png",
-        "source": "C:\\Users\\rntdl\\Desktop\\yellowproject\\app\\src\\main\\res\\drawable\\custom_marker_star.png"
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame.xml",
+        "source": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\src\\main\\res\\drawable\\frame.xml"
     },
     {
-        "merged": "C:\\Users\\hyunik\\Desktop\\yellow theme project\\yellowproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map_pin_red.png",
-        "source": "C:\\Users\\hyunik\\Desktop\\yellow theme project\\yellowproject\\app\\src\\main\\res\\drawable\\map_pin_red.png"
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_notification_forward30.xml"
     },
     {
-        "merged": "C:\\Users\\rntdl\\Desktop\\yellowproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map_pin_red.png",
-        "source": "C:\\Users\\rntdl\\Desktop\\yellowproject\\app\\src\\main\\res\\drawable\\map_pin_red.png"
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\90e8b1e7477a715b3df8d6280596f085d23129de\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "C:\\Users\\rntdl\\Desktop\\yellowproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_callout_balloon.9.png",
-        "source": "C:\\Users\\rntdl\\Desktop\\yellowproject\\app\\src\\main\\res\\drawable\\custom_callout_balloon.9.png"
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\f53b47409805c0d2fb69ac7c4ba0e648451e46c7\\output\\res\\drawable\\mr_dialog_material_background_light.xml"
     },
     {
-        "merged": "C:\\Users\\hyunik\\Desktop\\yellow theme project\\yellowproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_marker_red.png",
-        "source": "C:\\Users\\hyunik\\Desktop\\yellow theme project\\yellowproject\\app\\src\\main\\res\\drawable\\custom_marker_red.png"
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "C:\\Users\\hyunik\\Desktop\\yellow theme project\\yellowproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame.xml",
-        "source": "C:\\Users\\hyunik\\Desktop\\yellow theme project\\yellowproject\\app\\src\\main\\res\\drawable\\frame.xml"
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "C:\\Users\\hyunik\\Desktop\\yellow theme project\\yellowproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_marker_star.png",
-        "source": "C:\\Users\\hyunik\\Desktop\\yellow theme project\\yellowproject\\app\\src\\main\\res\\drawable\\custom_marker_star.png"
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\90e8b1e7477a715b3df8d6280596f085d23129de\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
     },
     {
-        "merged": "C:\\Users\\hyunik\\Desktop\\yellow theme project\\yellowproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_callout_balloon.9.png",
-        "source": "C:\\Users\\hyunik\\Desktop\\yellow theme project\\yellowproject\\app\\src\\main\\res\\drawable\\custom_callout_balloon.9.png"
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bibibig.jpg",
+        "source": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\src\\main\\res\\drawable\\bibibig.jpg"
     },
     {
-        "merged": "C:\\Users\\rntdl\\Desktop\\yellowproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map_pin_blue.png",
-        "source": "C:\\Users\\rntdl\\Desktop\\yellowproject\\app\\src\\main\\res\\drawable\\map_pin_blue.png"
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "C:\\Users\\rntdl\\Desktop\\yellowproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_marker_red.png",
-        "source": "C:\\Users\\rntdl\\Desktop\\yellowproject\\app\\src\\main\\res\\drawable\\custom_marker_red.png"
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "C:\\Users\\hyunik\\Desktop\\yellow theme project\\yellowproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map_pin_blue.png",
-        "source": "C:\\Users\\hyunik\\Desktop\\yellow theme project\\yellowproject\\app\\src\\main\\res\\drawable\\map_pin_blue.png"
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "C:\\Users\\hyunik\\Desktop\\project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame.xml",
-        "source": "C:\\Users\\hyunik\\Desktop\\project\\app\\src\\main\\res\\drawable\\frame.xml"
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\okdongja.jpg",
+        "source": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\src\\main\\res\\drawable\\okdongja.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sangmyung.jpg",
+        "source": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\src\\main\\res\\drawable\\sangmyung.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popcorn.jpg",
+        "source": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\src\\main\\res\\drawable\\popcorn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\f53b47409805c0d2fb69ac7c4ba0e648451e46c7\\output\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\f53b47409805c0d2fb69ac7c4ba0e648451e46c7\\output\\res\\drawable\\ic_expand.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\museumicon.png",
+        "source": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\src\\main\\res\\drawable\\museumicon.png"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\f53b47409805c0d2fb69ac7c4ba0e648451e46c7\\output\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\landscapesicon.png",
+        "source": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\src\\main\\res\\drawable\\landscapesicon.png"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\90e8b1e7477a715b3df8d6280596f085d23129de\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shoppingicon.png",
+        "source": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\src\\main\\res\\drawable\\shoppingicon.png"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\f53b47409805c0d2fb69ac7c4ba0e648451e46c7\\output\\res\\drawable\\mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\babamba.jpg",
+        "source": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\src\\main\\res\\drawable\\babamba.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_collapse.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\f53b47409805c0d2fb69ac7c4ba0e648451e46c7\\output\\res\\drawable\\ic_collapse.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\f53b47409805c0d2fb69ac7c4ba0e648451e46c7\\output\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\90e8b1e7477a715b3df8d6280596f085d23129de\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cultureicon.png",
+        "source": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\src\\main\\res\\drawable\\cultureicon.png"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_track.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame.xml",
+        "source": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\src\\main\\res\\drawable\\frame.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_light.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\f53b47409805c0d2fb69ac7c4ba0e648451e46c7\\output\\res\\drawable\\mr_ic_media_route_connecting_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\742ed705121487dd1bc7bb036860f126589db369\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_dark.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\f53b47409805c0d2fb69ac7c4ba0e648451e46c7\\output\\res\\drawable\\mr_ic_close_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beer1.PNG",
+        "source": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\src\\main\\res\\drawable\\beer1.PNG"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\90e8b1e7477a715b3df8d6280596f085d23129de\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\f53b47409805c0d2fb69ac7c4ba0e648451e46c7\\output\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wherego.png",
+        "source": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\src\\main\\res\\drawable\\wherego.png"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_audiotrack_light.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\f53b47409805c0d2fb69ac7c4ba0e648451e46c7\\output\\res\\drawable\\mr_ic_audiotrack_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cultureicon.png",
+        "source": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\src\\main\\res\\drawable\\cultureicon.png"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\babamba.jpg",
+        "source": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\src\\main\\res\\drawable\\babamba.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wherego.png",
+        "source": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\src\\main\\res\\drawable\\wherego.png"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\90e8b1e7477a715b3df8d6280596f085d23129de\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\screwbar.jpg",
+        "source": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\src\\main\\res\\drawable\\screwbar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\f53b47409805c0d2fb69ac7c4ba0e648451e46c7\\output\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\90e8b1e7477a715b3df8d6280596f085d23129de\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_light.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\f53b47409805c0d2fb69ac7c4ba0e648451e46c7\\output\\res\\drawable\\mr_ic_close_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gs25.jpg",
+        "source": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\src\\main\\res\\drawable\\gs25.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beer2.jpg",
+        "source": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\src\\main\\res\\drawable\\beer2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_dark.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\f53b47409805c0d2fb69ac7c4ba0e648451e46c7\\output\\res\\drawable\\mr_ic_media_route_connecting_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\90e8b1e7477a715b3df8d6280596f085d23129de\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\f53b47409805c0d2fb69ac7c4ba0e648451e46c7\\output\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\90e8b1e7477a715b3df8d6280596f085d23129de\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\90e8b1e7477a715b3df8d6280596f085d23129de\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\f53b47409805c0d2fb69ac7c4ba0e648451e46c7\\output\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sangmyung.jpg",
+        "source": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\src\\main\\res\\drawable\\sangmyung.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bibibig.jpg",
+        "source": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\src\\main\\res\\drawable\\bibibig.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gs25.jpg",
+        "source": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\src\\main\\res\\drawable\\gs25.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beer2.jpg",
+        "source": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\src\\main\\res\\drawable\\beer2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\90e8b1e7477a715b3df8d6280596f085d23129de\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\90e8b1e7477a715b3df8d6280596f085d23129de\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ronabar.jpg",
+        "source": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\src\\main\\res\\drawable\\ronabar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_light.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\f53b47409805c0d2fb69ac7c4ba0e648451e46c7\\output\\res\\drawable\\mr_ic_media_route_on_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_thumb.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\90e8b1e7477a715b3df8d6280596f085d23129de\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_dark.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\f53b47409805c0d2fb69ac7c4ba0e648451e46c7\\output\\res\\drawable\\mr_ic_media_route_on_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\90e8b1e7477a715b3df8d6280596f085d23129de\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\okdongja.jpg",
+        "source": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\src\\main\\res\\drawable\\okdongja.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shoppingicon.png",
+        "source": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\src\\main\\res\\drawable\\shoppingicon.png"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beer1.PNG",
+        "source": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\src\\main\\res\\drawable\\beer1.PNG"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\adigo.png",
+        "source": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\src\\main\\res\\drawable\\adigo.png"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\f53b47409805c0d2fb69ac7c4ba0e648451e46c7\\output\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\museumicon.png",
+        "source": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\src\\main\\res\\drawable\\museumicon.png"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\screwbar.jpg",
+        "source": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\src\\main\\res\\drawable\\screwbar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popcorn.jpg",
+        "source": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\src\\main\\res\\drawable\\popcorn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\landscapesicon.png",
+        "source": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\src\\main\\res\\drawable\\landscapesicon.png"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\e6acde1165d209f3efc8856892fba4b0068d403b\\output\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\notification_bg_low.xml"
     }
 ]
