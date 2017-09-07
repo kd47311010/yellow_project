@@ -44,12 +44,10 @@
         </activity>
         <activity
             android:name="graduation.sangmyung.project.MainActivity"
-            android:screenOrientation="portrait" >
-        </activity>
+            android:screenOrientation="portrait" />
         <activity
             android:name="graduation.sangmyung.project.CameraActivity"
-            android:screenOrientation="landscape" >
-        </activity>
+            android:screenOrientation="landscape" />
         <activity
             android:name="graduation.sangmyung.project.MapGoogle"
             android:screenOrientation="portrait" />
@@ -62,6 +60,9 @@
 
         <uses-library android:name="com.google.android.maps" />
 
+        <activity
+            android:name="graduation.sangmyung.project.ItemActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"

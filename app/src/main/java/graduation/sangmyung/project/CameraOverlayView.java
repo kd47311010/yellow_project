@@ -278,18 +278,7 @@ public class CameraOverlayView extends View implements SensorEventListener {
             //Toast.makeText(mContext, "정보 페이지로 이동중", Toast.LENGTH_SHORT)
             //		.show();
 
-            ArrayList<Integer> sources = new ArrayList<Integer>();
-            sources.add(R.drawable.babamba);
-            sources.add(R.drawable.bibibig);
-            sources.add(R.drawable.ronabar);
-            sources.add(R.drawable.screwbar);
-            sources.add(R.drawable.okdongja);
-
-            Intent intent = new Intent(mContext, MarkerIconInfo.class);
-            intent.putExtra("type_image", R.mipmap.ic_icecream);
-            intent.putExtra("type", "빙과류");
-            intent.putExtra("content", "2+1 할인 입니다.");
-            intent.putExtra("item_images", sources);
+            Intent intent = new Intent(mContext, ItemActivity.class);
             mContext.startActivity(intent);
         }
 

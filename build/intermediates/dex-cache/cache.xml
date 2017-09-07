@@ -2,22 +2,40 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Users\hyunik\Desktop\yellow_project-master\yellow_project-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\choidaek\.android\build-cache\90469b11f53cb36c364b7f9b102789f17c8f2cab\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="ea4f6502d32ecffde87dc798c233f3e0a0c4b018">
-        <dex dex="C:\Users\hyunik\Desktop\yellow_project-master\yellow_project-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a837f774622d4e2886a44bb3bcfc67067842907f\classes.dex" />
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\build\intermediates\pre-dexed\debug\classes_9adebe7342f6920ac910ce67f8a8023decd08403.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\hyunik\Desktop\yellow_project-master\yellow_project-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\choidaek\.android\build-cache\ecb6775a3c4a0e65dbe5404731cfbe9812a5a53f\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
-        <dex dex="C:\Users\hyunik\Desktop\yellow_project-master\yellow_project-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_35c87db832dba7ab302f4143fb5d52d00b2e2492\classes.dex" />
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\build\intermediates\pre-dexed\debug\classes_766bfdad0cae6bfe543a01e70171788e2e02856f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\choidaek\.android\build-cache\effaa021a9aa347cc95e1460211745faac309f6f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\build\intermediates\pre-dexed\debug\classes_2c69a81f551b2c9cea6be8250883794bd2405682.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\choidaek\.android\build-cache\662726228c88187adbec8f5f790ee14ad9ba8b37\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\build\intermediates\pre-dexed\debug\classes_9ce8ba56009bc17c4a7f3e012ba5c38150fd77f6.jar" />
     </item>
 
 </items>

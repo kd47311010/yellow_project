@@ -1,178 +1,184 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:2:1-39:12
+ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:2:1-53:12
 	package
-		ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:3:5-43
-		INJECTED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml
 uses-feature#android.hardware.camera
-ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:5:5-60
+ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:5:5-60
 	android:name
-		ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:5:19-57
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:5:19-57
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:6:5-65
+ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:7:5-65
 	android:name
-		ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:6:22-62
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:7:22-62
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:7:5-67
-MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\rntdl\.android\build-cache\0c6afe84efcd1ae7f7a789307d7e53c147de99a9\output\AndroidManifest.xml:20:5-66
+ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\choidaek\.android\build-cache\90469b11f53cb36c364b7f9b102789f17c8f2cab\output\AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:7:22-64
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:8:22-64
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:8:5-80
+ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:9:5-81
 	android:name
-		ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:8:22-78
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:9:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:9:5-78
+ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:10:5-79
 	android:name
-		ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:9:22-76
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:10:22-76
 application
-ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:12:5-37:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\rntdl\.android\build-cache\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\rntdl\.android\build-cache\8f96ce4a9a20ed4f7aaeaf9fe8ddc8ca0e0ef456\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\rntdl\.android\build-cache\f21c3a8d82268ac6b73f380fef4d33baf19a2120\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\rntdl\.android\build-cache\571a3de698a19954d7f7d42180eb31253e3d3766\output\AndroidManifest.xml:9:5-20
-MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\rntdl\.android\build-cache\0c6afe84efcd1ae7f7a789307d7e53c147de99a9\output\AndroidManifest.xml:24:5-19
-MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\rntdl\.android\build-cache\ddee383b5413719b6eb48612b9fd95f589978d5f\output\AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\rntdl\.android\build-cache\b0b06a0f703b225c611b84fb9bccbaec4ce681b4\output\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\rntdl\.android\build-cache\b9a64e760406fd6f04275845f799b41e6b6a0235\output\AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\rntdl\.android\build-cache\a2107fdd054d3c98ed7eccc80b21ab8d9835b54b\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\rntdl\.android\build-cache\b0b540649e68e1b260859f5e1cfdff25037150b1\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\rntdl\.android\build-cache\15b1f073f1f6e2e2143c953e892c51066fc78361\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\rntdl\.android\build-cache\08728fc23d6e709d0fe45ac76eb4aec68bc1177e\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\rntdl\.android\build-cache\04547a851491e5e90a58f76694e843b7eec50209\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\rntdl\.android\build-cache\74e87793102cc94c2845d8a5c7ed7b7effff6d7c\output\AndroidManifest.xml:29:5-20
+ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:12:5-51:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\choidaek\.android\build-cache\370d52ed3867424ca872ceb2d489f3bc60a1d8db\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\choidaek\.android\build-cache\ddc47611622c885cbde9ef7346c28f5f4d0b8849\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\choidaek\.android\build-cache\425ed04e0b547e32e69ac1e35263d96166abb73f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\choidaek\.android\build-cache\353100a8efdc9225d84afbdb5d8acacd30d6a84f\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\choidaek\.android\build-cache\90469b11f53cb36c364b7f9b102789f17c8f2cab\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\choidaek\.android\build-cache\effaa021a9aa347cc95e1460211745faac309f6f\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\choidaek\.android\build-cache\662726228c88187adbec8f5f790ee14ad9ba8b37\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\choidaek\.android\build-cache\ecb6775a3c4a0e65dbe5404731cfbe9812a5a53f\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\choidaek\.android\build-cache\b29eb5cbdbc73b4763b24b489098405b0743640a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\choidaek\.android\build-cache\79e33b2bfb15abd7ccc358ea2603f2e78444f218\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\choidaek\.android\build-cache\f1539266a9b113d62a9bb38870e3721591c8e1eb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\choidaek\.android\build-cache\2627828d23ad457571257175f6b7129a7e502045\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\choidaek\.android\build-cache\f228fd837a7d39f66549b8f420e52bfc73becc3f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\choidaek\.android\build-cache\6f3a8985db82727414b6e56d8eb838c3374bb54a\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:15:9-41
 	android:allowBackup
-		ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:13:9-35
 	android:icon
-		ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:14:9-41
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:14:9-41
 meta-data#com.google.android.geo.API_KEY
-ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:16:9-18:71
+ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:16:9-18:71
 	android:value
-		ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:18:13-68
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:18:13-68
 	android:name
-		ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:17:13-58
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:17:13-58
 activity#graduation.sangmyung.project.MainLoading
-ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:19:9-26:20
+ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:20:9-29:20
 	android:screenOrientation
-		ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:20:46-82
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:23:13-49
 	android:label
-		ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:20:13-45
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:22:13-45
 	android:name
-		ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:19:19-46
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:21:13-40
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:21:13-25:29
+ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:22:17-69
+ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:22:25-66
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:24:17-77
+ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:24:27-74
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:27:27-74
 activity#graduation.sangmyung.project.MainActivity
-ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:27:9-28:20
+ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:30:9-32:61
 	android:screenOrientation
-		ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:27:48-84
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:32:13-49
 	android:name
-		ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:27:19-47
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:31:13-41
 activity#graduation.sangmyung.project.CameraActivity
-ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:29:9-32:20
+ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:33:9-35:62
 	android:screenOrientation
-		ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:31:13-50
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:35:13-50
 	android:name
-		ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:30:13-43
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:34:13-43
 activity#graduation.sangmyung.project.MapGoogle
-ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:33:9-93
+ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:36:9-38:52
 	android:screenOrientation
-		ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:33:45-81
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:38:13-49
 	android:name
-		ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:33:19-44
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:37:13-38
 activity#graduation.sangmyung.project.LocationSettingRequest
-ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:34:9-105
+ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:39:9-41:52
 	android:screenOrientation
-		ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:34:57-93
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:41:13-49
 	android:name
-		ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:34:19-56
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:40:13-51
 activity#graduation.sangmyung.project.MarkerIconInfo
-ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:35:9-98
+ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:42:9-44:52
 	android:screenOrientation
-		ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:35:50-86
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:44:13-49
 	android:name
-		ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:35:19-49
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:43:13-43
 uses-library#com.google.android.maps
-ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:36:9-64
+ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:46:9-64
 	android:name
-		ADDED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml:36:23-61
-uses-sdk
-INJECTED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\rntdl\.android\build-cache\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\rntdl\.android\build-cache\8f96ce4a9a20ed4f7aaeaf9fe8ddc8ca0e0ef456\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\rntdl\.android\build-cache\f21c3a8d82268ac6b73f380fef4d33baf19a2120\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\rntdl\.android\build-cache\571a3de698a19954d7f7d42180eb31253e3d3766\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\rntdl\.android\build-cache\0c6afe84efcd1ae7f7a789307d7e53c147de99a9\output\AndroidManifest.xml:23:5-43
-MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\rntdl\.android\build-cache\ddee383b5413719b6eb48612b9fd95f589978d5f\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\rntdl\.android\build-cache\b0b06a0f703b225c611b84fb9bccbaec4ce681b4\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\rntdl\.android\build-cache\b9a64e760406fd6f04275845f799b41e6b6a0235\output\AndroidManifest.xml:17:5-43
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\rntdl\.android\build-cache\a2107fdd054d3c98ed7eccc80b21ab8d9835b54b\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\rntdl\.android\build-cache\b0b540649e68e1b260859f5e1cfdff25037150b1\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\rntdl\.android\build-cache\15b1f073f1f6e2e2143c953e892c51066fc78361\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\rntdl\.android\build-cache\08728fc23d6e709d0fe45ac76eb4aec68bc1177e\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\rntdl\.android\build-cache\04547a851491e5e90a58f76694e843b7eec50209\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\rntdl\.android\build-cache\74e87793102cc94c2845d8a5c7ed7b7effff6d7c\output\AndroidManifest.xml:21:5-23:58
-	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\rntdl\.android\build-cache\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\output\AndroidManifest.xml:23:9-75
-	android:targetSdkVersion
-		INJECTED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml
-	android:minSdkVersion
-		INJECTED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\rntdl\Desktop\yellow_project\app\src\main\AndroidManifest.xml
-meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\rntdl\.android\build-cache\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\rntdl\.android\build-cache\8f96ce4a9a20ed4f7aaeaf9fe8ddc8ca0e0ef456\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\rntdl\.android\build-cache\f21c3a8d82268ac6b73f380fef4d33baf19a2120\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\rntdl\.android\build-cache\a2107fdd054d3c98ed7eccc80b21ab8d9835b54b\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\rntdl\.android\build-cache\b0b540649e68e1b260859f5e1cfdff25037150b1\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\rntdl\.android\build-cache\15b1f073f1f6e2e2143c953e892c51066fc78361\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\rntdl\.android\build-cache\08728fc23d6e709d0fe45ac76eb4aec68bc1177e\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\rntdl\.android\build-cache\04547a851491e5e90a58f76694e843b7eec50209\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\rntdl\.android\build-cache\74e87793102cc94c2845d8a5c7ed7b7effff6d7c\output\AndroidManifest.xml:25:5-27:34
-	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\rntdl\.android\build-cache\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\output\AndroidManifest.xml:27:9-31
-	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\rntdl\.android\build-cache\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\output\AndroidManifest.xml:26:9-47
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\rntdl\.android\build-cache\0c6afe84efcd1ae7f7a789307d7e53c147de99a9\output\AndroidManifest.xml:19:5-78
-	android:name
-		ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\rntdl\.android\build-cache\0c6afe84efcd1ae7f7a789307d7e53c147de99a9\output\AndroidManifest.xml:19:22-76
-uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\rntdl\.android\build-cache\0c6afe84efcd1ae7f7a789307d7e53c147de99a9\output\AndroidManifest.xml:21:5-77
-	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\rntdl\.android\build-cache\0c6afe84efcd1ae7f7a789307d7e53c147de99a9\output\AndroidManifest.xml:21:19-51
-	android:required
-		ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\rntdl\.android\build-cache\0c6afe84efcd1ae7f7a789307d7e53c147de99a9\output\AndroidManifest.xml:21:52-75
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\rntdl\.android\build-cache\ddee383b5413719b6eb48612b9fd95f589978d5f\output\AndroidManifest.xml:19:9-172
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\rntdl\.android\build-cache\ddee383b5413719b6eb48612b9fd95f589978d5f\output\AndroidManifest.xml:19:146-170
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:46:23-61
+activity#graduation.sangmyung.project.ItemActivity
+ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:48:9-50:53
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\rntdl\.android\build-cache\ddee383b5413719b6eb48612b9fd95f589978d5f\output\AndroidManifest.xml:19:86-145
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:49:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\rntdl\.android\build-cache\ddee383b5413719b6eb48612b9fd95f589978d5f\output\AndroidManifest.xml:19:19-85
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\rntdl\.android\build-cache\b9a64e760406fd6f04275845f799b41e6b6a0235\output\AndroidManifest.xml:20:9-121
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:50:13-41
+uses-sdk
+INJECTED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\choidaek\.android\build-cache\370d52ed3867424ca872ceb2d489f3bc60a1d8db\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\choidaek\.android\build-cache\ddc47611622c885cbde9ef7346c28f5f4d0b8849\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\choidaek\.android\build-cache\425ed04e0b547e32e69ac1e35263d96166abb73f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\choidaek\.android\build-cache\353100a8efdc9225d84afbdb5d8acacd30d6a84f\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\choidaek\.android\build-cache\90469b11f53cb36c364b7f9b102789f17c8f2cab\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\choidaek\.android\build-cache\effaa021a9aa347cc95e1460211745faac309f6f\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\choidaek\.android\build-cache\662726228c88187adbec8f5f790ee14ad9ba8b37\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\choidaek\.android\build-cache\ecb6775a3c4a0e65dbe5404731cfbe9812a5a53f\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\choidaek\.android\build-cache\b29eb5cbdbc73b4763b24b489098405b0743640a\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\choidaek\.android\build-cache\79e33b2bfb15abd7ccc358ea2603f2e78444f218\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\choidaek\.android\build-cache\f1539266a9b113d62a9bb38870e3721591c8e1eb\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\choidaek\.android\build-cache\2627828d23ad457571257175f6b7129a7e502045\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\choidaek\.android\build-cache\f228fd837a7d39f66549b8f420e52bfc73becc3f\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\choidaek\.android\build-cache\6f3a8985db82727414b6e56d8eb838c3374bb54a\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\choidaek\.android\build-cache\370d52ed3867424ca872ceb2d489f3bc60a1d8db\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\choidaek\.android\build-cache\370d52ed3867424ca872ceb2d489f3bc60a1d8db\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\choidaek\.android\build-cache\ddc47611622c885cbde9ef7346c28f5f4d0b8849\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\choidaek\.android\build-cache\425ed04e0b547e32e69ac1e35263d96166abb73f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\choidaek\.android\build-cache\b29eb5cbdbc73b4763b24b489098405b0743640a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\choidaek\.android\build-cache\79e33b2bfb15abd7ccc358ea2603f2e78444f218\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\choidaek\.android\build-cache\f1539266a9b113d62a9bb38870e3721591c8e1eb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\choidaek\.android\build-cache\2627828d23ad457571257175f6b7129a7e502045\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\choidaek\.android\build-cache\f228fd837a7d39f66549b8f420e52bfc73becc3f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\choidaek\.android\build-cache\6f3a8985db82727414b6e56d8eb838c3374bb54a\output\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\rntdl\.android\build-cache\b9a64e760406fd6f04275845f799b41e6b6a0235\output\AndroidManifest.xml:20:66-119
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\choidaek\.android\build-cache\370d52ed3867424ca872ceb2d489f3bc60a1d8db\output\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\rntdl\.android\build-cache\b9a64e760406fd6f04275845f799b41e6b6a0235\output\AndroidManifest.xml:20:20-65
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\choidaek\.android\build-cache\370d52ed3867424ca872ceb2d489f3bc60a1d8db\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\choidaek\.android\build-cache\90469b11f53cb36c364b7f9b102789f17c8f2cab\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\choidaek\.android\build-cache\90469b11f53cb36c364b7f9b102789f17c8f2cab\output\AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\choidaek\.android\build-cache\90469b11f53cb36c364b7f9b102789f17c8f2cab\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\choidaek\.android\build-cache\90469b11f53cb36c364b7f9b102789f17c8f2cab\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\choidaek\.android\build-cache\90469b11f53cb36c364b7f9b102789f17c8f2cab\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\choidaek\.android\build-cache\effaa021a9aa347cc95e1460211745faac309f6f\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\choidaek\.android\build-cache\effaa021a9aa347cc95e1460211745faac309f6f\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\choidaek\.android\build-cache\effaa021a9aa347cc95e1460211745faac309f6f\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\choidaek\.android\build-cache\effaa021a9aa347cc95e1460211745faac309f6f\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\choidaek\.android\build-cache\ecb6775a3c4a0e65dbe5404731cfbe9812a5a53f\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\choidaek\.android\build-cache\ecb6775a3c4a0e65dbe5404731cfbe9812a5a53f\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\choidaek\.android\build-cache\ecb6775a3c4a0e65dbe5404731cfbe9812a5a53f\output\AndroidManifest.xml:20:20-65
