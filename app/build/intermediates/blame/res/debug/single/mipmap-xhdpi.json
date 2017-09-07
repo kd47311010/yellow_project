@@ -1,70 +1,90 @@
 [
     {
-        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
-        "source": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
-        "source": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_gs.png",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_gs.png"
     },
     {
-        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_beer.png",
-        "source": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_beer.png"
+        "merged": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\cafe.png",
+        "source": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\src\\main\\res\\mipmap-xhdpi\\cafe.png"
     },
     {
-        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_icecream.png",
-        "source": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_icecream.png"
+        "merged": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\school.png",
+        "source": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\src\\main\\res\\mipmap-xhdpi\\school.png"
     },
     {
-        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\cafe.png",
-        "source": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\cafe.png"
+        "merged": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\food.png",
+        "source": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\src\\main\\res\\mipmap-xhdpi\\food.png"
     },
     {
-        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\food.png",
-        "source": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\food.png"
+        "merged": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\gs25img.png",
+        "source": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\src\\main\\res\\mipmap-xhdpi\\gs25img.png"
     },
     {
-        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\gs25img.png",
-        "source": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\gs25img.png"
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\food.png",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\mipmap-xhdpi\\food.png"
     },
     {
-        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\school.png",
-        "source": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\school.png"
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_beer.png",
-        "source": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_beer.png"
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\cafe.png",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\mipmap-xhdpi\\cafe.png"
     },
     {
-        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_gs.png",
-        "source": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_gs.png"
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_beer.png",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_beer.png"
     },
     {
-        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_icecream.png",
-        "source": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_icecream.png"
+        "merged": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_cookie.png",
+        "source": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_cookie.png"
     },
     {
-        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
-        "source": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\toy.png",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\mipmap-xhdpi\\toy.png"
     },
     {
-        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_cookie.png",
-        "source": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_cookie.png"
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\school.png",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\mipmap-xhdpi\\school.png"
     },
     {
-        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_cookie.png",
-        "source": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_cookie.png"
+        "merged": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_gs.png",
+        "source": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_gs.png"
     },
     {
-        "merged": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_gs.png",
-        "source": "C:\\Users\\hyunik\\Desktop\\graduation_project\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_gs.png"
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
-        "source": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_icecream.png",
+        "source": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_icecream.png"
     },
     {
-        "merged": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\toy.png",
-        "source": "C:\\Users\\rntdl\\Desktop\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\toy.png"
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_icecream.png",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_icecream.png"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\gs25img.png",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\mipmap-xhdpi\\gs25img.png"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\toy.png",
+        "source": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\src\\main\\res\\mipmap-xhdpi\\toy.png"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_beer.png",
+        "source": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_beer.png"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_cookie.png",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_cookie.png"
     }
 ]

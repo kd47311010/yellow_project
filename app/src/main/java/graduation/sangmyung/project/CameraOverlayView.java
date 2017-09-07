@@ -23,6 +23,7 @@ import android.hardware.SensorManager;
 import android.location.Location;
 import android.view.MotionEvent;
 import android.view.View;
+import android.widget.Toast;
 
 import static graduation.sangmyung.project.R.mipmap.gs25img;
 
@@ -110,7 +111,7 @@ public class CameraOverlayView extends View implements SensorEventListener {
         drawThemeButton(canvas);
 
         // 보여지는 거리 셋팅 그림
-        //drawVisibilitySetting(canvas);
+        drawVisibilitySetting(canvas);
 
         // 보여지는 거리의 현재 세팅 그림
         //drawVisibilitySettingCurrentPoint(canvas);
@@ -322,7 +323,10 @@ public class CameraOverlayView extends View implements SensorEventListener {
                 && convertedY < mAllVisibleRect.bottom - mHeight / 2) {
             //mAllVisible = true;
             //mVisibleDistance = 50000;
-
+            Toast.makeText(mContext, "구글맵으로 이동합니다.", Toast.LENGTH_SHORT)
+                    .show();
+            Intent intent=new Intent(mContext, MapGoogle.class);
+            mContext.startActivity(intent);
         }
 
         return super.onTouchEvent(event);
@@ -597,15 +601,15 @@ public class CameraOverlayView extends View implements SensorEventListener {
     // pCanvas.drawLine(mWidth / 2, 0, mWidth / 2, mHeight, mPaint);
     // }
 
-	/*
+
 	// 보여지는 범위 설정을 그림
 	// 0 ~10Km 또는 무제한
 	private void drawVisibilitySetting(Canvas pCanvas) {
 		// TODO Auto-generated method stub
 
-		pCanvas.drawRoundRect(mVisibilitySettingRect, 10, 10, mPaint);
+		// pCanvas.drawRoundRect(mVisibilitySettingRect, 10, 10, mPaint);
 		pCanvas.drawRoundRect(mAllVisibleRect, 10, 10, mThemePaint);
-
+/*
 		pCanvas.drawText("0",
 				mVisibilitySettingRect.left - (mPaint.measureText("0") / 2)
 						+ mShadowXMargin, mVisibilitySettingRect.bottom + 20
@@ -622,14 +626,14 @@ public class CameraOverlayView extends View implements SensorEventListener {
 				"10Km",
 				mVisibilitySettingRect.right - (mPaint.measureText("10Km") / 2),
 				mVisibilitySettingRect.bottom + 20, mPaint);
-
+*/
 		pCanvas.drawText("2D지도", (mAllVisibleRect.left + mAllVisibleRect.right)
 				/ 2 - mTextColor.measureText("2D지도") / 2,
 				(mAllVisibleRect.top + mAllVisibleRect.bottom) / 2 + 8, mTextColor);
 
 
 	}
-	*/
+
 
     // 테마 버튼들을 그림
     // 선택된 테마가 있을때는 다른 색상으로 그려서 선택되었음을 나타냄

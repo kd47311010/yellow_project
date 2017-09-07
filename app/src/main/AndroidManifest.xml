@@ -30,6 +30,7 @@
             android:name=".CameraActivity"
             android:screenOrientation="landscape" >
         </activity>
+        <activity android:name=".MapGoogle" android:screenOrientation="portrait"></activity>
         <activity android:name="LocationSettingRequest" android:screenOrientation="portrait"></activity>
         <activity android:name=".MarkerIconInfo" android:screenOrientation="portrait"></activity>
         <uses-library android:name="com.google.android.maps" />
