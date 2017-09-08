@@ -3,37 +3,51 @@
     package="graduation.sangmyung.project">
 
     <uses-feature android:name="android.hardware.camera" />
+
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
-    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
-
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
     <application
         android:allowBackup="true"
         android:icon="@drawable/wherego"
-        android:label="@string/app_name" >
+        android:label="@string/app_name">
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyDL5NP1UqBZbxiGJnzXoK-y1B1-6jXBEZ0" />
-        <activity android:name=".MainLoading"
-            android:label="@string/app_name" android:screenOrientation="portrait">
+
+        <activity
+            android:name=".MainLoading"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity" android:screenOrientation="portrait">
-        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait"></activity>
         <activity
             android:name=".CameraActivity"
-            android:screenOrientation="landscape" >
-        </activity>
-        <activity android:name=".MapGoogle" android:screenOrientation="portrait"></activity>
-        <activity android:name="LocationSettingRequest" android:screenOrientation="portrait"></activity>
-        <activity android:name=".MarkerIconInfo" android:screenOrientation="portrait"></activity>
+            android:screenOrientation="landscape"></activity>
+        <activity
+            android:name=".MapGoogle"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".LocationSettingRequest"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MarkerIconInfo"
+            android:screenOrientation="portrait" />
+
         <uses-library android:name="com.google.android.maps" />
+
+        <activity
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+            android:name=".ItemActivity"></activity>
     </application>
 
 </manifest>
