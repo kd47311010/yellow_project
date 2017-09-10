@@ -9,6 +9,7 @@ import com.google.android.maps.GeoPoint;
 
 import android.content.Context;
 import android.content.Intent;
+import android.content.res.Resources;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Canvas;
@@ -21,11 +22,13 @@ import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
 import android.location.Location;
+import android.view.Menu;
 import android.view.MotionEvent;
 import android.view.View;
 import android.widget.Toast;
 
 import static graduation.sangmyung.project.R.mipmap.gs25img;
+import static graduation.sangmyung.project.R.mipmap.toy;
 
 public class CameraOverlayView extends View implements SensorEventListener {
 
@@ -109,6 +112,8 @@ public class CameraOverlayView extends View implements SensorEventListener {
 
         // 테마버튼 그림
         drawThemeButton(canvas);
+
+        //MyView(canvas);
 
         // 보여지는 거리 셋팅 그림
         drawVisibilitySetting(canvas);
@@ -624,79 +629,121 @@ public class CameraOverlayView extends View implements SensorEventListener {
 	}
 
 
-    // 테마 버튼들을 그림
-    // 선택된 테마가 있을때는 다른 색상으로 그려서 선택되었음을 나타냄
-    private void drawThemeButton(Canvas pCanvas) {
-        Paint tPaint = new Paint();
-        int yTextMargin = 8;
+	//public class MyView extends View {
+    //    private Bitmap gs25img, foodimg, cafeimg, schoolimg, toyimg, allimg;
+//
+    //    public MyView(Context context) {
+    //        super(context);
+    //        //setBackground(Color.LTGRAY);
+//
+    //        Resources r = context.getResources();
+    //        gs25img = BitmapFactory.decodeResource(r, R.drawable.gs25img);
+    //        foodimg = BitmapFactory.decodeResource(r, R.drawable.food);
+    //        cafeimg = BitmapFactory.decodeResource(r, R.drawable.cafe);
+    //        schoolimg = BitmapFactory.decodeResource(r, R.drawable.school);
+    //        toyimg = BitmapFactory.decodeResource(r, R.drawable.toy);
+    //        allimg = BitmapFactory.decodeResource(r, R.drawable.all);
+    //    }
 
-        if (mDBHandler.getTheme().equals(DBHandler.PALACE)) {
-            tPaint = mSelectedThemePaint;
-        } else {
-            tPaint = mThemePaint;
+
+        // 테마 버튼들을 그림
+        // 선택된 테마가 있을때는 다른 색상으로 그려서 선택되었음을 나타냄
+        private void drawThemeButton(Canvas pCanvas) {
+            Paint tPaint = new Paint();
+            int yTextMargin = 8;
+
+            if (mDBHandler.getTheme().equals(DBHandler.PALACE)) {
+                tPaint = mSelectedThemePaint;
+            } else {
+                tPaint = mThemePaint;
+            }
+
+            pCanvas.drawRoundRect(mPalaceRect, 10, 10, tPaint);
+            pCanvas.drawText("편의점", (mPalaceRect.left + mPalaceRect.right) / 2
+                            - mTextColor.measureText("편의점") / 2,
+                    (mPalaceRect.top + mPalaceRect.bottom) / 2 + yTextMargin,
+                    mTextColor);
+            //pCanvas.drawBitmap(gs25img, (mPalaceRect.left + mPalaceRect.right) / 2
+            //        - mTextColor.measureText("편의점") / 2,
+            //        (mPalaceRect.top + mPalaceRect.bottom) / 2 + yTextMargin, mTextColor);
+
+            if (mDBHandler.getTheme().equals(DBHandler.LANDSCAPE)) {
+                tPaint = mSelectedThemePaint;
+            } else {
+                tPaint = mThemePaint;
+            }
+            pCanvas.drawRoundRect(mLandscapesRect, 10, 10, tPaint);
+            pCanvas.drawText("음식점", (mLandscapesRect.left + mLandscapesRect.right)
+                            / 2 - mTextColor.measureText("음식점") / 2,
+                    (mLandscapesRect.top + mLandscapesRect.bottom) / 2
+                            + yTextMargin, mTextColor);
+            //pCanvas.drawBitmap(foodimg, (mLandscapesRect.left + mLandscapesRect.right)
+            //        / 2 - mTextColor.measureText("음식점") / 2,
+            //        (mLandscapesRect.top + mLandscapesRect.bottom) / 2
+            //                + yTextMargin, mTextColor);
+
+            if (mDBHandler.getTheme().equals(DBHandler.SHOPPING)) {
+                tPaint = mSelectedThemePaint;
+            } else {
+                tPaint = mThemePaint;
+            }
+            pCanvas.drawRoundRect(mShoppingRect, 10, 10, tPaint);
+            pCanvas.drawText("카페", (mShoppingRect.left + mShoppingRect.right) / 2
+                            - mTextColor.measureText("카페") / 2,
+                    (mShoppingRect.top + mShoppingRect.bottom) / 2 + yTextMargin,
+                    mTextColor);
+            //pCanvas.drawBitmap(cafeimg, (mShoppingRect.left + mShoppingRect.right) / 2
+            //                - mTextColor.measureText("카페") / 2,
+            //        (mShoppingRect.top + mShoppingRect.bottom) / 2 + yTextMargin,
+            //        mTextColor);
+
+            if (mDBHandler.getTheme().equals(DBHandler.CULTURE)) {
+                tPaint = mSelectedThemePaint;
+            } else {
+                tPaint = mThemePaint;
+            }
+            pCanvas.drawRoundRect(mCultureRect, 10, 10, tPaint);
+            pCanvas.drawText("학교건물", (mCultureRect.left + mCultureRect.right) / 2
+                            - mTextColor.measureText("학교건물") / 2,
+                    (mCultureRect.top + mCultureRect.bottom) / 2 + yTextMargin,
+                    mTextColor);
+            //pCanvas.drawBitmap(schoolimg, (mCultureRect.left + mCultureRect.right) / 2
+            //                - mTextColor.measureText("학교건물") / 2,
+            //        (mCultureRect.top + mCultureRect.bottom) / 2 + yTextMargin,
+            //        mTextColor);
+
+            if (mDBHandler.getTheme().equals(DBHandler.MUSEUM)) {
+                tPaint = mSelectedThemePaint;
+            } else {
+                tPaint = mThemePaint;
+            }
+            pCanvas.drawRoundRect(mMuseumRect, 10, 10, tPaint);
+            pCanvas.drawText("문구류", (mMuseumRect.left + mMuseumRect.right) / 2
+                            - mTextColor.measureText("문구류") / 2,
+                    (mMuseumRect.top + mMuseumRect.bottom) / 2 + yTextMargin,
+                    mTextColor);
+            //pCanvas.drawBitmap(toyimg, (mMuseumRect.left + mMuseumRect.right) / 2
+            //                - mTextColor.measureText("문구류") / 2,
+            //        (mMuseumRect.top + mMuseumRect.bottom) / 2 + yTextMargin,
+            //        mTextColor);
+
+            if (mDBHandler.getTheme().equals(DBHandler.ALL)) {
+                tPaint = mSelectedThemePaint;
+            } else {
+                tPaint = mThemePaint;
+            }
+            pCanvas.drawRoundRect(mAllRect, 10, 10, tPaint);
+            pCanvas.drawText("모두",
+                    (mAllRect.left + mAllRect.right) / 2 - mTextColor.measureText("모두")
+                            / 2,
+                    (mAllRect.top + mAllRect.bottom) / 2 + yTextMargin, mTextColor);
+            //pCanvas.drawBitmap(allimg,
+            //        (mAllRect.left + mAllRect.right) / 2 - mTextColor.measureText("모두")
+            //                / 2,
+            //        (mAllRect.top + mAllRect.bottom) / 2 + yTextMargin, mTextColor);
+
         }
 
-        pCanvas.drawRoundRect(mPalaceRect, 10, 10, tPaint);
-        pCanvas.drawText("편의점", (mPalaceRect.left + mPalaceRect.right) / 2
-                        - mTextColor.measureText("편의점") / 2,
-                (mPalaceRect.top + mPalaceRect.bottom) / 2 + yTextMargin,
-                mTextColor);
-
-        if (mDBHandler.getTheme().equals(DBHandler.LANDSCAPE)) {
-            tPaint = mSelectedThemePaint;
-        } else {
-            tPaint = mThemePaint;
-        }
-        pCanvas.drawRoundRect(mLandscapesRect, 10, 10, tPaint);
-        pCanvas.drawText("음식점", (mLandscapesRect.left + mLandscapesRect.right)
-                        / 2 - mTextColor.measureText("음식점") / 2,
-                (mLandscapesRect.top + mLandscapesRect.bottom) / 2
-                        + yTextMargin, mTextColor);
-
-        if (mDBHandler.getTheme().equals(DBHandler.SHOPPING)) {
-            tPaint = mSelectedThemePaint;
-        } else {
-            tPaint = mThemePaint;
-        }
-        pCanvas.drawRoundRect(mShoppingRect, 10, 10, tPaint);
-        pCanvas.drawText("카페", (mShoppingRect.left + mShoppingRect.right) / 2
-                        - mTextColor.measureText("카페") / 2,
-                (mShoppingRect.top + mShoppingRect.bottom) / 2 + yTextMargin,
-                mTextColor);
-
-        if (mDBHandler.getTheme().equals(DBHandler.CULTURE)) {
-            tPaint = mSelectedThemePaint;
-        } else {
-            tPaint = mThemePaint;
-        }
-        pCanvas.drawRoundRect(mCultureRect, 10, 10, tPaint);
-        pCanvas.drawText("학교건물", (mCultureRect.left + mCultureRect.right) / 2
-                        - mTextColor.measureText("학교건물") / 2,
-                (mCultureRect.top + mCultureRect.bottom) / 2 + yTextMargin,
-                mTextColor);
-
-        if (mDBHandler.getTheme().equals(DBHandler.MUSEUM)) {
-            tPaint = mSelectedThemePaint;
-        } else {
-            tPaint = mThemePaint;
-        }
-        pCanvas.drawRoundRect(mMuseumRect, 10, 10, tPaint);
-        pCanvas.drawText("문구류", (mMuseumRect.left + mMuseumRect.right) / 2
-                        - mTextColor.measureText("문구류") / 2,
-                (mMuseumRect.top + mMuseumRect.bottom) / 2 + yTextMargin,
-                mTextColor);
-
-        if (mDBHandler.getTheme().equals(DBHandler.ALL)) {
-            tPaint = mSelectedThemePaint;
-        } else {
-            tPaint = mThemePaint;
-        }
-        pCanvas.drawRoundRect(mAllRect, 10, 10, tPaint);
-        pCanvas.drawText("모두",
-                (mAllRect.left + mAllRect.right) / 2 - mTextColor.measureText("모두")
-                        / 2,
-                (mAllRect.top + mAllRect.bottom) / 2 + yTextMargin, mTextColor);
-    }
 
     // 선택된 테마의 랜드마크를 그림
     // 현재의 위치정보와 랜드마크의 위치정보를 이용하여 두 위치간의 각도를 계산하고,

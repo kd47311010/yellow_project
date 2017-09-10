@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tomato.jpg",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\drawable\\tomato.jpg"
+    },
+    {
         "merged": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
         "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
@@ -44,12 +48,12 @@
         "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_ratingbar_material.xml"
-    },
-    {
         "merged": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
         "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
         "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
@@ -140,6 +144,10 @@
         "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\drawable\\popcorn.jpg"
     },
     {
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toy.png",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\drawable\\toy.png"
+    },
+    {
         "merged": "C:\\Users\\choidaek\\AndroidStudioProjects\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
         "source": "C:\\Users\\choidaek\\.android\\build-cache\\370d52ed3867424ca872ceb2d489f3bc60a1d8db\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
@@ -158,6 +166,10 @@
     {
         "merged": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\juicy.jpg",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\drawable\\juicy.jpg"
     },
     {
         "merged": "C:\\Users\\choidaek\\AndroidStudioProjects\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\babamba.jpg",
@@ -250,6 +262,10 @@
     {
         "merged": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
         "source": "C:\\Users\\hyunik\\.android\\build-cache\\90e8b1e7477a715b3df8d6280596f085d23129de\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\all.png",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\drawable\\all.png"
     },
     {
         "merged": "C:\\Users\\choidaek\\AndroidStudioProjects\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\screwbar.jpg",
@@ -360,6 +376,10 @@
         "source": "C:\\Users\\choidaek\\.android\\build-cache\\effaa021a9aa347cc95e1460211745faac309f6f\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
     {
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bongus.jpg",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\drawable\\bongus.jpg"
+    },
+    {
         "merged": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
         "source": "C:\\Users\\hyunik\\.android\\build-cache\\b302099fe54a2fb99877bab3bd4c7b1dcceb2f0b\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
@@ -400,6 +420,10 @@
         "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gs25img.png",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\drawable\\gs25img.png"
+    },
+    {
         "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sangmyung.jpg",
         "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\drawable\\sangmyung.jpg"
     },
@@ -426,6 +450,10 @@
     {
         "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
         "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\food.png",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\drawable\\food.png"
     },
     {
         "merged": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
@@ -520,6 +548,10 @@
         "source": "C:\\Users\\choidaek\\AndroidStudioProjects\\yellow_project\\app\\src\\main\\res\\drawable\\adigo.png"
     },
     {
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border2.xml",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\drawable\\border2.xml"
+    },
+    {
         "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
         "source": "C:\\Users\\rntdl\\.android\\build-cache\\d9eb29f4ce5d20eb52d114fb3288d2cb4f89407e\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
@@ -580,6 +612,10 @@
         "source": "C:\\Users\\choidaek\\AndroidStudioProjects\\yellow_project\\app\\src\\main\\res\\drawable\\event.PNG"
     },
     {
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cafe.png",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\drawable\\cafe.png"
+    },
+    {
         "merged": "C:\\Users\\choidaek\\AndroidStudioProjects\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
         "source": "C:\\Users\\choidaek\\.android\\build-cache\\370d52ed3867424ca872ceb2d489f3bc60a1d8db\\output\\res\\drawable\\abc_vector_test.xml"
     },
@@ -590,6 +626,10 @@
     {
         "merged": "C:\\Users\\choidaek\\AndroidStudioProjects\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
         "source": "C:\\Users\\choidaek\\.android\\build-cache\\370d52ed3867424ca872ceb2d489f3bc60a1d8db\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\drawable\\border.xml"
     },
     {
         "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
@@ -624,8 +664,16 @@
         "source": "C:\\Users\\rntdl\\.android\\build-cache\\ddee383b5413719b6eb48612b9fd95f589978d5f\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
     },
     {
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\school.png",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\drawable\\school.png"
+    },
+    {
         "merged": "C:\\Users\\choidaek\\AndroidStudioProjects\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
         "source": "C:\\Users\\choidaek\\.android\\build-cache\\370d52ed3867424ca872ceb2d489f3bc60a1d8db\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\event.PNG",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\drawable\\event.PNG"
     },
     {
         "merged": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
@@ -782,6 +830,14 @@
     {
         "merged": "C:\\Users\\choidaek\\AndroidStudioProjects\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\together.jpg",
         "source": "C:\\Users\\choidaek\\AndroidStudioProjects\\yellow_project\\app\\src\\main\\res\\drawable\\together.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\together.jpg",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\drawable\\together.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu.PNG",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\drawable\\menu.PNG"
     },
     {
         "merged": "C:\\Users\\choidaek\\AndroidStudioProjects\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",

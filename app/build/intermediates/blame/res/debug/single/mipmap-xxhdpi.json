@@ -4,20 +4,20 @@
         "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\mipmap-xxhdpi\\gs25img.png"
     },
     {
-        "merged": "C:\\Users\\choidaek\\AndroidStudioProjects\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_icecream.png",
-        "source": "C:\\Users\\choidaek\\AndroidStudioProjects\\yellow_project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_icecream.png"
-    },
-    {
         "merged": "C:\\Users\\choidaek\\AndroidStudioProjects\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
         "source": "C:\\Users\\choidaek\\AndroidStudioProjects\\yellow_project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
-        "source": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\choidaek\\AndroidStudioProjects\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_icecream.png",
+        "source": "C:\\Users\\choidaek\\AndroidStudioProjects\\yellow_project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_icecream.png"
     },
     {
         "merged": "C:\\Users\\choidaek\\AndroidStudioProjects\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_bongus.png",
         "source": "C:\\Users\\choidaek\\AndroidStudioProjects\\yellow_project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_bongus.png"
+    },
+    {
+        "merged": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_beer.png",
@@ -42,6 +42,10 @@
     {
         "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
         "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_bongus.png",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_bongus.png"
     },
     {
         "merged": "C:\\Users\\choidaek\\AndroidStudioProjects\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\school.png",
@@ -94,6 +98,10 @@
     {
         "merged": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
         "source": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_calling.png",
+        "source": "C:\\Users\\rntdl\\Desktop\\yellow_project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_calling.png"
     },
     {
         "merged": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\school.png",
