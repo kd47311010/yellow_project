@@ -62,7 +62,7 @@
 
         <activity
             android:name="graduation.sangmyung.project.ItemActivity"
-            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+            android:theme="@style/AppTheme" />
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"

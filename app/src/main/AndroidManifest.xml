@@ -46,7 +46,7 @@
         <uses-library android:name="com.google.android.maps" />
 
         <activity
-            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+            android:label="상점정보"
             android:name=".ItemActivity"></activity>
     </application>
 

@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\choidaek\\AndroidStudioProjects\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\food.png",
-        "source": "C:\\Users\\choidaek\\AndroidStudioProjects\\yellow_project\\app\\src\\main\\res\\mipmap-xhdpi\\food.png"
-    },
-    {
         "merged": "C:\\Users\\choidaek\\AndroidStudioProjects\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\gs25img.png",
         "source": "C:\\Users\\choidaek\\AndroidStudioProjects\\yellow_project\\app\\src\\main\\res\\mipmap-xhdpi\\gs25img.png"
+    },
+    {
+        "merged": "C:\\Users\\choidaek\\AndroidStudioProjects\\yellow_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\food.png",
+        "source": "C:\\Users\\choidaek\\AndroidStudioProjects\\yellow_project\\app\\src\\main\\res\\mipmap-xhdpi\\food.png"
     },
     {
         "merged": "C:\\Users\\hyunik\\Desktop\\yellow_project-master\\yellow_project-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
