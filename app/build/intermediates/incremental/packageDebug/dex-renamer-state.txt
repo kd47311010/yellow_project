@@ -1,4 +1,4 @@
-#Tue Sep 12 05:17:43 KST 2017
+#Tue Sep 12 05:56:51 KST 2017
 base.0=C\:\\Users\\choidaek\\AndroidStudioProjects\\yellow_project\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=C\:\\Users\\choidaek\\AndroidStudioProjects\\yellow_project\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
