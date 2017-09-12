@@ -1,8 +1,10 @@
 package graduation.sangmyung.project;
 
+import android.content.Context;
 import android.content.Intent;
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.Toast;
 
 import com.google.android.gms.maps.CameraUpdate;
@@ -21,6 +23,7 @@ import java.util.List;
 public class MapGoogle extends FragmentActivity implements OnMapReadyCallback {
 
     private GoogleMap mMap;
+    private Context mContext;
 
     private DBHandler mDBHandler;
     private List<DBRecord> mDBRecordList = null;
@@ -48,7 +51,7 @@ public class MapGoogle extends FragmentActivity implements OnMapReadyCallback {
     public void onMapReady(GoogleMap googleMap) {
         mMap = googleMap;
 
-        LatLng sangmyung = new LatLng(37.602638, 126.955241);
+        LatLng sangmyung = new LatLng(37.556135, 126.954837);
         CameraUpdate zoom=CameraUpdateFactory.zoomTo(18);
         MarkerOptions marker = new MarkerOptions();
         marker.position(sangmyung)
@@ -63,8 +66,8 @@ public class MapGoogle extends FragmentActivity implements OnMapReadyCallback {
             @Override
             public boolean onMarkerClick(Marker marker) {
                 // 마커 클릭시 호출되는 콜백 메서드
-                Intent intent = new Intent(getApplicationContext(), ItemActivity.class);
-                getApplicationContext().startActivity(intent);
+                Intent intent = new Intent(getBaseContext(), ItemActivity.class);
+                getBaseContext().startActivity(intent);
                 return true;
             }
         });

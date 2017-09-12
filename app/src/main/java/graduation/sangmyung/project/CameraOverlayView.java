@@ -330,6 +330,7 @@ public class CameraOverlayView extends View implements SensorEventListener {
                 && convertedY < mAllVisibleRect.bottom - mHeight / 2) {
             //mAllVisible = true;
             //mVisibleDistance = 50000;
+
             Toast.makeText(mContext, "구글맵으로 이동합니다.", Toast.LENGTH_SHORT)
                     .show();
             Intent intent=new Intent(mContext, MapGoogle.class);
