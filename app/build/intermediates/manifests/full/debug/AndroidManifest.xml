@@ -58,16 +58,17 @@
             android:name="graduation.sangmyung.project.LocationSettingRequest"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.NoActionBar" />
-        <activity
-            android:name="graduation.sangmyung.project.MarkerIconInfo"
-            android:screenOrientation="portrait"
-            android:theme="@style/Theme.AppCompat.NoActionBar" />
 
         <uses-library android:name="com.google.android.maps" />
 
         <activity
             android:name="graduation.sangmyung.project.ItemActivity"
-            android:label="상점정보" />
+            android:label="상점정보"
+            android:theme="@style/AppTheme" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".CameraActivity" />
+        </activity>
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"

@@ -1,5 +1,6 @@
 package graduation.sangmyung.project;
 
+import android.content.Intent;
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
 import android.widget.Toast;
@@ -62,10 +63,9 @@ public class MapGoogle extends FragmentActivity implements OnMapReadyCallback {
             @Override
             public boolean onMarkerClick(Marker marker) {
                 // 마커 클릭시 호출되는 콜백 메서드
-                Toast.makeText(getApplicationContext(),
-                        marker.getTitle()
-                        , Toast.LENGTH_SHORT).show();
-                return false;
+                Intent intent = new Intent(getApplicationContext(), ItemActivity.class);
+                getApplicationContext().startActivity(intent);
+                return true;
             }
         });
     }
