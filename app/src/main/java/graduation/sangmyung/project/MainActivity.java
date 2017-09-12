@@ -14,12 +14,15 @@ import android.util.Log;
 import android.view.KeyEvent;
 import android.view.View;
 import android.view.View.OnClickListener;
+import android.view.animation.Animation;
+import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
+import java.sql.Time;
 
 public class MainActivity extends Activity {
 
@@ -39,7 +42,10 @@ public class MainActivity extends Activity {
         // TODO Auto-generated method stub
         super.onResume();
 
-        TextView startView = (TextView)findViewById(R.id.startView);
+        ImageView startView = (ImageView)findViewById(R.id.startView);
+        Animation anim = AnimationUtils.loadAnimation(getBaseContext(), R.anim.alpha_anim);
+        startView.startAnimation(anim);
+
         startView.setOnClickListener(new View.OnClickListener() {
 
             public void onClick(View v) {
@@ -49,6 +55,7 @@ public class MainActivity extends Activity {
             }
 
         });
+
     }
 
     // 뒤로가기 버튼을 터치했을때

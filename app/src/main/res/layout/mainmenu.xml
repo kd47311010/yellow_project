@@ -3,17 +3,18 @@
     android:id="@+id/startActivity"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:background="@drawable/adigo"
+    android:background="@drawable/main_background_copy"
     android:orientation="vertical" >
 
 
-    <TextView
+    <ImageView
         android:id="@+id/startView"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:gravity="center_horizontal|center_vertical"
-        android:text="시작하려면 터치"
-        android:textColor="@android:color/white"
-        android:textSize="30dp"
-        android:textStyle="bold" />
+        android:src="@drawable/main_character"
+        android:layout_width="280dp"
+        android:layout_height="150dp"
+        android:scaleType="centerCrop"
+        android:layout_marginTop="150dp"
+        android:layout_marginLeft="50dp"
+        />
+
 </LinearLayout>
