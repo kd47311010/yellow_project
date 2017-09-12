@@ -34,8 +34,8 @@
 
         <activity
             android:name="graduation.sangmyung.project.MainLoading"
-            android:label="@string/app_name"
-            android:screenOrientation="portrait" >
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.NoActionBar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -44,25 +44,30 @@
         </activity>
         <activity
             android:name="graduation.sangmyung.project.MainActivity"
-            android:screenOrientation="portrait" />
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
         <activity
             android:name="graduation.sangmyung.project.CameraActivity"
-            android:screenOrientation="landscape" />
+            android:screenOrientation="landscape"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
         <activity
             android:name="graduation.sangmyung.project.MapGoogle"
-            android:screenOrientation="portrait" />
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
         <activity
             android:name="graduation.sangmyung.project.LocationSettingRequest"
-            android:screenOrientation="portrait" />
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
         <activity
             android:name="graduation.sangmyung.project.MarkerIconInfo"
-            android:screenOrientation="portrait" />
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
 
         <uses-library android:name="com.google.android.maps" />
 
         <activity
             android:name="graduation.sangmyung.project.ItemActivity"
-            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+            android:label="상점정보" />
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"
