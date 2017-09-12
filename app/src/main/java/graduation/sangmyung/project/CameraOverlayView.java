@@ -276,21 +276,8 @@ public class CameraOverlayView extends View implements SensorEventListener {
 		}
 		*/
 
-        // 팝업을 터치시 처리
-        // 터치시 정보 페이지로 이동
-        if (mTouched == true) {
-
-            //Toast.makeText(mContext, "정보 페이지로 이동중", Toast.LENGTH_SHORT)
-            //		.show();
-
-            Intent intent = new Intent(mContext, ItemActivity.class);
-            mContext.startActivity(intent);
-        }
-
-        // 아이템을 터치시 처리
-        // 터치시 플래그, 터치된 아이템 번호 설정
         mTouched = false;
-        PointF tPoint = new PointF();
+        PointF tPoint;
         Iterator<PointF> pointIterator = mPointFList.iterator();
         for (int i = 0; i < mPointFList.size(); i++) {
             tPoint = pointIterator.next();
@@ -309,6 +296,32 @@ public class CameraOverlayView extends View implements SensorEventListener {
             }
         }
 
+
+        String tName = mPointHashMap.get(mTouchedItem);
+        String theme = null;
+        Iterator<DBRecord> dbRecordIterator = mDBRecordList.iterator();
+        for (int i = 0; i < mDBRecordList.size(); i++) {
+            DBRecord tDBRecord = dbRecordIterator.next();
+            if (tDBRecord.getName().equals(tName) == true) {
+                theme = tDBRecord.getTheme();
+            }
+        }
+
+        // 팝업을 터치시 처리
+        // 터치시 정보 페이지로 이동
+        if (mTouched == true) {
+
+            //Toast.makeText(mContext, "정보 페이지로 이동중", Toast.LENGTH_SHORT)
+            //		.show();
+
+            Intent intent = new Intent(mContext, ItemActivity.class);
+            intent.putExtra("theme", theme);
+            mContext.startActivity(intent);
+        }
+
+
+
+
         // 보여지는 범위 무제한 터치시 처리
         // 범위 50000km로 설정
         if (convertedX > mAllVisibleRect.left - mWidth / 2
@@ -317,6 +330,7 @@ public class CameraOverlayView extends View implements SensorEventListener {
                 && convertedY < mAllVisibleRect.bottom - mHeight / 2) {
             //mAllVisible = true;
             //mVisibleDistance = 50000;
+
             Toast.makeText(mContext, "구글맵으로 이동합니다.", Toast.LENGTH_SHORT)
                     .show();
             Intent intent=new Intent(mContext, MapGoogle.class);

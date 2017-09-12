@@ -112,24 +112,24 @@ ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\A
 		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:44:13-63
 	android:name
 		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:43:13-51
-activity#graduation.sangmyung.project.MarkerIconInfo
-ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:46:9-49:52
-	android:screenOrientation
-		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:49:13-49
-	android:theme
-		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:48:13-63
-	android:name
-		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:47:13-43
 uses-library#com.google.android.maps
-ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:51:9-64
+ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:47:9-64
 	android:name
-		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:51:23-61
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:47:23-61
 activity#graduation.sangmyung.project.ItemActivity
-ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:53:9-55:53
+ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:49:9-55:20
 	android:label
-		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:54:13-33
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:50:13-33
+	android:theme
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:51:13-44
 	android:name
-		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:55:13-41
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:52:13-41
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:53:13-54:50
+	android:value
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:54:17-48
+	android:name
+		ADDED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml:53:24-70
 uses-sdk
 INJECTED from C:\Users\choidaek\AndroidStudioProjects\yellow_project\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\choidaek\.android\build-cache\370d52ed3867424ca872ceb2d489f3bc60a1d8db\output\AndroidManifest.xml:21:5-23:78
