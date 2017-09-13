@@ -43,16 +43,16 @@
             android:name=".LocationSettingRequest"
             android:theme="@style/Theme.AppCompat.NoActionBar"
             android:screenOrientation="portrait" />
-        <activity
-            android:name=".MarkerIconInfo"
-            android:theme="@style/Theme.AppCompat.NoActionBar"
-            android:screenOrientation="portrait" />
 
         <uses-library android:name="com.google.android.maps" />
 
         <activity
             android:label="상점정보"
-            android:name=".ItemActivity"></activity>
+            android:theme="@style/AppTheme"
+            android:name=".ItemActivity">
+            <meta-data android:name="android.support.PARENT_ACTIVITY"
+                android:value=".CameraActivity"/>
+        </activity>
     </application>
 
 </manifest>
